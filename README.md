@@ -28,4 +28,5 @@ Create an optimized production build:
 
 ## Resources ##
 
+- https://github.com/Microsoft/TypeScript-React-Starter#typescript-react-starter
 - https://scrimba.com/c/cbqm3SM
