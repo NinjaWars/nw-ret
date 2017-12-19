@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import ReactDom from 'react-dom';
+//import ReactDom from 'react-dom';
 
 class App extends Component {
   render() {
@@ -20,9 +20,11 @@ class App extends Component {
   }
 }
 
+/*
 ReactDom.render(
   <i>Rendered</i>,
   document.getElementById('render-me')
 );
+*/
 
 export default App;
